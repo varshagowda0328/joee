@@ -1,0 +1,1 @@
+R is a free, open-source programming language and software environment specifically designed for statistical computing and graphics. It is widely used by statisticians, data scientists, and researchers for data analysis, visualization, and the development of statistical software. 
