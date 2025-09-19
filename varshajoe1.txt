@@ -1,0 +1,6 @@
+Python provides several built-in data structures and allows for the implementation of custom data structures.
+Built-in Data Structures:
+Lists: Ordered, mutable collections of items. Elements can be of different data types.
+Python
+
+    my_list = [1, "hello", 3.14, True]
